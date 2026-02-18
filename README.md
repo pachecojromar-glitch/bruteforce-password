@@ -29,7 +29,7 @@ This project is only for educational purposes.
 
 ## Example Output
 
-Password found: abc  
+Password found: abcdefghij  
 Attempts: 731  
 Execution time: 0.0021 seconds  
 
