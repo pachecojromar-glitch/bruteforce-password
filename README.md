@@ -39,7 +39,7 @@ Execution time: 0.0021 seconds
 
 The program:
 
-- Defines a test password (for example: "abc")
+- Defines a test password (for example: "abcdefghij")
 - Uses lowercase letters as possible characters
 - Tries all combinations starting from length 1
 - Stops when it finds the correct password
