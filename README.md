@@ -29,9 +29,9 @@ This project is only for educational purposes.
 
 ## Example Output
 
-Password found: abcdefghij  
-Attempts: 731  
-Execution time: 0.0021 seconds  
+Password found: abcdef
+Attempts:   12850896
+Execution time: 2.1683 seconds  
 
 ---
 
@@ -39,7 +39,7 @@ Execution time: 0.0021 seconds
 
 The program:
 
-- Defines a test password (for example: "abcdefghij")
+- Defines a test password (for example: "abcdef")
 - Uses lowercase letters as possible characters
 - Tries all combinations starting from length 1
 - Stops when it finds the correct password
