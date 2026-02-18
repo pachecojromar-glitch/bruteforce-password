@@ -23,8 +23,9 @@ def brute_force(password, alphabet):
 found_password, attempts, elapsed_time = brute_force(password, alphabet)
 
 if found_password:
-    print("Contraseña encontrada:", found_password)
-    print("Intentos realizados:", attempts)
-    print("Tiempo de ejecución:", round(elapsed_time, 4), "segundos")
+    print("Password found:", found_password)
+    print("Attempts:", attempts)
+    print("Execution time:", round(elapsed_time, 4), "seconds")
 else:
-    print("No se encontró la contraseña.")
+    print("Password not found.")
+
