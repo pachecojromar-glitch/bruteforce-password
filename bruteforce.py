@@ -2,7 +2,7 @@ import itertools
 import string
 import time
 
-password = "abc123"  
+password = "abcdefghij"  
 alphabet = string.ascii_lowercase  
 
 def brute_force(password, alphabet):
