@@ -62,5 +62,3 @@ But if the password has:
 The number of possible combinations becomes extremely large.
 
 This means the attack could take years.
-
-That is why strong passwords are very important in cybersecurity.
